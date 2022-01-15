@@ -6,9 +6,9 @@ int main()
 {
 
     double sintegral,h,a,b,n,m;
-    cout << "input a\r\n";
+    cout << "input start\r\n";
     cin >> a;
-    cout << "input b\r\n";
+    cout << "input end\r\n";
     cin >> b;
     cout << "input step\r\n";
     cin >> h;
