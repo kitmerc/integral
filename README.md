@@ -1,5 +1,5 @@
 # integral
-calculating the integral by the trapezoidal method
+calculating the integral by the trapezoidal method(you can set the accuracy)
 
 *work on GNU/Linux*
 
