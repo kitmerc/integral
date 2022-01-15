@@ -1,0 +1,3 @@
+integral: main.cpp
+	g++ -c -o intobj.o main.cpp
+  g++ -o integr intobj.o
